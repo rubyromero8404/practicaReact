@@ -1,0 +1,10 @@
+{
+"SUMA":"+",
+"RESTA":"-",
+"MULTIPLICACION":"*",
+"DIVISION":"/",
+"IGUAL":"=",
+"LIMPIAR":"C",
+"LIMPIARTODO":"CE"
+
+}
